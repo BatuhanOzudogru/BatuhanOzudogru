@@ -34,7 +34,7 @@ My goal is to become a part of the information technology field, which has becom
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/BatuhanOzudogru/count.svg?"  />
 </div>
 
 
